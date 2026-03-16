@@ -19,7 +19,7 @@
         pname = "go-socks5";
         version = "0.0.0-dev";
         src = self;
-        vendorHash = "sha256-V8vFSLa9Z2miXVHcceq0W2F4bWacXuG4aey93q0XWuQ="; # COMPUTING
+        vendorHash = "sha256-V8vFSLa9Z2miXVHcceq0W2F4bWacXuG4aey93q0XWuQ=";
       };
 
       devShells.default = pkgs.mkShellNoCC {
